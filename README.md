@@ -1,8 +1,8 @@
 # PointsBuild
 PointsBuild前端点位辅助创建工具，简单来说就是帮助大家获取屏幕上的点位坐标，能够格式化输出，省略大家一步步反复调试
 
-![image](https://user-images.githubusercontent.com/52529445/157577263-9b366c49-a04c-4e27-aa95-364e89d63e4d.png)
-![image](https://user-images.githubusercontent.com/52529445/157577318-26cacecd-0559-4795-a42d-b336c26be282.png)
+![point1min](https://user-images.githubusercontent.com/52529445/157582809-fa6f3e8b-e173-4736-81b8-9a2981b23611.gif)
+![pointssmin](https://img-blog.csdnimg.cn/26649b919c3148e3b785b113698aac34.gif)
 
 替代了原先在代码上一个个写定位然后在浏览器上面调坐标的方式，直接写好格式化输出语句，直接在浏览器上取点直接复制到代码上即可。现在来说说怎么使用：
 ```javascript
